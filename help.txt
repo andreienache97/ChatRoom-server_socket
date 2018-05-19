@@ -1,0 +1,13 @@
+If you press the button "like" then it will output a big word LIKE made with *.
+\help - shows all the instructions
+\quit - close the connection
+\numberclients - shows the number of clients that are currently using the server
+\ipaddresss - show the ip address
+\servertime - how many seconds since the server is running
+\currentdate - shows the real actual time
+\startdate - shows the date when the server was turned on
+\mytime - how many seconds passed since you entered the chat
+\myname - shows your username
+\allusers - shows a list with all the clients of the server
+\archive - shows all the messages that have been broadcasted since the server was turned on
+
